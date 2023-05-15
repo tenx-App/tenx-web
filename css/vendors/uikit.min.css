@@ -517,7 +517,7 @@ a.uk-link-reset {
     vertical-align: middle;
     height: calc(4px + .7em);
     margin-right: calc(5px + .2em);
-    border-left: calc(5px + .1em) solid #c99c3b
+    border-left: calc(5px + .1em) solid #0467B1
 }
 
 .uk-heading-line {
@@ -1556,7 +1556,7 @@ select.uk-form-width-xsmall {
 }
 
 .uk-button-primary {
-    background-color: #c99c3b;
+    background-color: #0467B1;
     color: #fff
 }
 
@@ -2951,7 +2951,7 @@ ul.uk-nav-sub li a i {
 }
 
 .uk-nav-default>li.uk-active>a {
-    color: #c99c3b
+    color: #0467B1
 }
 
 .uk-nav-default .uk-nav-header {
@@ -2972,7 +2972,7 @@ ul.uk-nav-sub li a i {
 }
 
 .uk-nav-default .uk-nav-sub li.uk-active>a {
-    color: #c99c3b
+    color: #0467B1
 }
 
 .uk-nav-primary>li>a {
@@ -3129,7 +3129,7 @@ ul.uk-nav-sub li a i {
 }
 
 .uk-navbar-nav>li.uk-active>a {
-    color: #c99c3b
+    color: #0467B1
 }
 
 .uk-navbar-item {
@@ -3232,7 +3232,7 @@ ul.uk-nav-sub li a i {
 }
 
 .uk-navbar-dropdown-nav>li.uk-active>a {
-    color: #c99c3b
+    color: #0467B1
 }
 
 .uk-navbar-dropdown-nav .uk-nav-header {
@@ -3391,7 +3391,7 @@ ul.uk-nav-sub li a i {
 
 .uk-breadcrumb>:last-child>a:not([href]),
 .uk-breadcrumb>:last-child>span {
-    color: #c99c3b
+    color: #0467B1
 }
 
 .uk-breadcrumb>:nth-child(n+2):not(.uk-first-column)::before {
